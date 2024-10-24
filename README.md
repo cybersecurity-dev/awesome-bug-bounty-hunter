@@ -1,0 +1,2 @@
+# awesome-bug-bounty-hunter
+
