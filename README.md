@@ -1,4 +1,4 @@
-# Awesome Bug Bounty Hunter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome [Bug](https://en.wikipedia.org/wiki/Bug_bounty_program) [Bounty](https://en.wikipedia.org/wiki/Open_Bug_Bounty) [Hunter](https://en.wikipedia.org/wiki/Bug_hunting) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/bugbounty/)
 
 <p align="center">
