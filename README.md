@@ -10,3 +10,10 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+
+## Private Bug Bounty Programs
+
+* [Bugcrowd](https://www.bugcrowd.com/) - Bugcrowd is a cybersecurity platform that uses a crowdsourced approach to help organizations identify and fix vulnerabilities in their software and systems. It
+* [HackerOne](https://www.hackerone.com/) - HackerOne is a platform that connects organizations with ethical hackers to identify and fix security vulnerabilities before they can be exploited.
+* [Intigriti](https://www.intigriti.com/) - Intigriti is a global bug bounty platform, vulnerability disclosure programs and penetration testing services provider.
